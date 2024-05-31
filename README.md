@@ -46,7 +46,7 @@ You need a web browser to run this application. No additional software is requir
 
 ## Example
 
-![Age Calculator Screenshot](screenshot.png)
+![Age Calculator Screenshot]([screenshot.png](https://github.com/sajidhussaint/CodeAlpha_Age_Calculator/blob/main/age.png))
 
 ## Code Overview
 
