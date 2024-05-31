@@ -45,8 +45,8 @@ You need a web browser to run this application. No additional software is requir
 3. Click the "Calculate Age" button to see your age displayed on the screen.
 
 ## Example
+![Age Calculator Screenshot](https://github.com/sajidhussaint/CodeAlpha_Age_Calculator/blob/main/age.png)
 
-![Age Calculator Screenshot]([screenshot.png](https://github.com/sajidhussaint/CodeAlpha_Age_Calculator/blob/main/age.png))
 
 ## Code Overview
 
